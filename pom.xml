@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.anxpp.demo</groupId>
 	<artifactId>docker</artifactId>
-	<version>1.2.3-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>docker</name>
 	<description>Demo project for Spring Boot</description>

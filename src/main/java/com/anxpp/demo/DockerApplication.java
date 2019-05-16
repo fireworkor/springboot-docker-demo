@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DockerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DockerApplication.class, args);
+		//
 	}
 	@RequestMapping
 	public String index(){
